@@ -1,0 +1,27 @@
+Exp : 2
+
+Product service: http://localhost:8081/products/instance
+
+Cart service : http://localhost:9090/cart
+
+EXP : 1
+
+http://localhost:8101/restaurants
+
+http://localhost:8102/orders
+
+EXP : 3
+
+http://localhost:8103/register
+
+http://localhost:8103/register
+
+http://localhost:8103/h2-console/login.jsp?jsessionid=c8b1ee9fb7708d30d34af3cd8ecc694e
+
+EXP: 4
+
+http://localhost:8104/
+
+EXP : 5
+
+http://localhost:8106/
